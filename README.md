@@ -4,7 +4,7 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>Moon Eyes &amp; Cal — Weekly Political Satire</title>
-  <meta name="description" content="Weekly political satire featuring fictional characters. No party safe. No ideology spared." />
+  <meta name="description" content="Weekly political satire with fictional characters. Right, left, center—no one is immune." />
 
   <style>
     :root{
@@ -109,10 +109,7 @@
       border-bottom:1px solid var(--line);
       background:rgba(15,27,51,.70);
     }
-    .sectionHead h2{
-      margin:0;
-      font-size:16px;
-    }
+    .sectionHead h2{margin:0;font-size:16px}
     .sectionBody{padding:16px}
 
     /* STRIP DISPLAY — NO CROPPING */
@@ -135,7 +132,6 @@
       line-height:1.6;
     }
 
-    /* FOOTER */
     footer{
       margin-top:30px;
       text-align:center;
@@ -152,7 +148,6 @@
 <body>
   <div class="wrap">
 
-    <!-- HEADER -->
     <header class="topbar">
       <div class="brand">
         <strong class="wordmark">Moon Eyes <span>&amp;</span> Cal</strong>
@@ -166,7 +161,6 @@
       </nav>
     </header>
 
-    <!-- HERO -->
     <section class="hero">
       <div class="heroInner">
         <h1>We don’t lean. We observe.</h1>
@@ -178,14 +172,12 @@
       </div>
     </section>
 
-    <!-- WEEK ONE -->
     <section id="latest" class="section">
       <div class="sectionHead">
         <h2>Week One</h2>
       </div>
       <div class="sectionBody">
         <div class="stripMedia">
-          <!-- replace image filename when ready -->
           <img src="week-one.png" alt="Moon Eyes & Cal — Week One" />
         </div>
         <div class="stripInfo">
